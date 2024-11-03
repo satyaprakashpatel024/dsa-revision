@@ -1,5 +1,5 @@
 package backtracking;
-import static helper.Main.*;
+import static helper.HelperClass.*;
 public class NQueensProblem {
     static int count = 0;
     public static void main(String[] args) {
